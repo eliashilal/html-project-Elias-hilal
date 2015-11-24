@@ -1,0 +1,190 @@
+body{
+	background-image: url('images/background.jpg');
+	background-size: 900px 700px;
+}
+
+.logo{
+	
+    margin-left:480px;
+
+}
+nav{
+	margin-left: 70px;
+	position: absolute;
+	top: 150px;
+	
+
+}
+
+nav ul {
+	background: #003399;  
+	padding: 0 20px;
+	border-radius: 10px;  
+	list-style: none;
+	display: inline-block;
+}
+
+ nav ul li {
+	float: left;
+}
+
+
+nav ul li a {
+	display: block; 
+	padding: 25px 40px;
+	color: #757575; 
+	text-decoration: none;
+}	
+
+
+
+nav ul li:hover {
+	background: #4b545f;
+}
+
+nav ul li:hover a {
+	color: #fff;
+}	
+
+#social1{
+	position: absolute;
+	top: 125px;
+	left: 1080px;
+}
+#social2{
+	position: absolute;
+	top:125px; 
+	left:1120px;
+}
+#social3{
+	position: absolute;
+	top:125px;
+	left:1160px;
+}
+#social4{
+	position: absolute;
+	top: 125px;
+	left:1200px;
+}
+
+.latestgames{
+	color: white;
+	margin-left: 430px;
+	border:3px solid blue;
+	background-color: #e60000;
+	padding:7px;
+	width: 200px;
+	border-radius: 10px;
+	font-size:27px; 
+	text-align: center;
+
+}
+
+.game1{
+   float:left;
+   width: 200px;
+   margin-right:10px;
+   border:2px solid blue;
+   
+
+}
+.pgame1{
+	color:white;
+	background-color:#e60000;
+	border:1px solid blue;
+	border-radius:5px;
+	text-align: center;
+
+}
+ 
+span{
+	color: blue;
+}
+ 
+.game2{
+   float: left;
+   width: 200px;
+   margin-right:10px;
+   border:2px solid blue;
+   margin-top: 5px;
+}
+
+#gm2{
+	margin-left: 85px;
+}
+
+ 
+
+#gm3{
+	margin-left: 205px;
+}
+
+ 
+
+#gm4{
+	margin-left: 320px;
+}
+
+.ad{
+	
+	border:3px dashed #000099;
+	background-color: #0099cc;
+	height: 340px;
+	width: 160px;
+	border-radius: 8px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    top: 330px;
+    margin-right: 20px;
+}
+
+.ad>p{
+	color: red;
+	font-size: 35px;
+	line-height: 60px;
+	margin-top: 12px;
+	text-align: center;
+}
+
+.ad2{
+	position: absolute;
+    right: 0px;
+    bottom: 0px;
+    top: 750px;
+    
+}
+
+.ad2>img{
+	width: 200px;
+	height: 390px;
+	border-radius: 10px;
+	border:3px solid #0066cc;
+	margin-left: 50px;
+
+}
+
+.ad2>p{
+	color: #66ff99;
+	font-size: 26px;
+	font-style: italic; 
+	font-weight: bolder;
+	margin-top: 5px;
+}
+
+.myweb{
+    color: #33ffad;
+     margin-top: 320px;
+     float: right;
+}
+
+
+.lastdiv{
+	float: left;
+	margin-top: 10px;
+}
+
+.lastdiv>a{
+	color: #33ffad;
+	text-decoration:none;
+}
