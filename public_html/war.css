@@ -1,0 +1,258 @@
+body{
+	background-image: url('images/background.jpg');
+	background-size: 900px 700px;
+}
+
+.logo{
+	
+    margin-left:480px;
+
+}
+
+nav{
+	margin-left: 70px;
+	position: absolute;
+	top: 150px;
+	
+
+}
+
+nav ul {
+	background: #003399;  
+	padding: 0 20px;
+	border-radius: 10px;  
+	list-style: none;
+	display: inline-block;
+}
+
+ nav ul li {
+	float: left;
+}
+
+
+nav ul li a {
+	display: block; 
+	padding: 25px 40px;
+	color: #757575; 
+	text-decoration: none;
+}	
+
+
+
+nav ul li:hover {
+	background: #4b545f;
+}
+
+nav ul li:hover a {
+	color: #fff;
+}	
+
+.img{
+	margin-top: 26px;
+	margin-left: 70px;
+
+}
+ 
+.p1{
+	color:red;
+	font-size: 30px;
+	float: right;
+	margin-top: -450px;
+	margin-right: 430px;
+
+} 
+
+.mostplayedgames{
+	border:3px solid blue;
+	width: 400px;
+	height: 120px;
+	background-color: #293d3d;
+	border-radius: 5px;
+	position: absolute;
+	right: 300px;
+	top:280px;
+
+}
+
+.mostplayedgames>img{
+	float: left;
+
+}
+
+.span1{
+	float: right;
+	margin-right: 70px;
+	margin-top: 5px;
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.span2{
+	color: #b37700;
+	font-size: 50px;
+	position: absolute;
+	right: 220px;
+	top: 70px;
+
+}
+
+
+.mostplayedgames2{
+	border:3px solid blue;
+	width: 400px;
+	height: 120px;
+	background-color: #293d3d;
+	border-radius: 5px;
+	position: absolute;
+	right: 300px;
+	top:410px;
+}
+
+.mostplayedgames3{
+	border:3px solid blue;
+	width: 400px;
+	height: 120px;
+	background-color: #293d3d;
+	border-radius: 5px;
+	position: absolute;
+	right: 300px;
+	top:550px;
+	
+}
+
+.ad{
+	border:2px solid blue;
+	background-color: #0040ff;
+	color: white;
+	position: absolute;
+	right: 10px;
+	top:270px;
+	padding: 10px;
+	border-radius: 5px;
+	width: 250px;
+
+}
+
+.ad2{
+	position: absolute;
+	right: 30px;
+	top: 380px;
+
+}
+
+.ad3{
+	background-color: #990000;
+	width: 200px;
+	padding: 10px;
+	border-radius: 7px;
+	text-align: center;
+	float: right;
+	margin-right: 40px;
+	margin-top: -110px;
+
+}
+
+.ad3>a{
+	text-decoration: none;
+	 color: white;
+}
+
+.latestwargames{
+	margin-left: 100px;
+	color: red;
+	font-size: 25px;
+	text-decoration: underline;
+
+}
+
+.latestwargames1{
+	float: left;
+	margin-left: 50px;
+}
+
+.latestwargames1>p{
+	color: #ff3300;
+	font-size: 25px;
+	font-weight: bolder;
+	margin-top: 5px;
+}
+
+.span3{
+	color: #cc0000;
+	font-size: 25px;
+
+}
+
+.latestwargames1>img{
+    border:2px solid blue;
+}
+
+.addictedgames{
+	color: #ff3300;
+	margin-left: 80px;
+	font-size: 20px;
+	font-weight: bolder;
+	text-decoration: underline;
+
+	 
+
+}
+
+.addictedgames1{
+	float: left;
+	margin-left:50px;
+	margin-top: 20px;
+}
+
+.addictedgames2{
+	 position: absolute;
+	 top: 1280px;
+	 left: 60px;
+}
+
+.addictedgames3{
+      position: absolute;
+	  top: 1280px;
+	  left: 205px;
+}
+
+.p3{
+	font-size: 20px;
+	margin-left: 330px;
+	color: #ff3300;
+	margin-top: 40px;
+
+}
+
+.border{
+	border:2px solid blue;
+    height: 250px;
+    width: 0px;
+    position: absolute;
+    left: 550px;
+    top: 1120px;
+
+}
+
+ table{
+	width: 750px;
+	margin-top: 20px;
+	border:solid 5px;
+	border-collapse: collapse;
+	background-color: #33ccff;
+	float: right;
+	margin-top: -280px;
+	margin-right: 30px;
+}
+caption{
+	color: red;
+	font-weight: bold;
+        font-size:20px;
+}
+
+thead{
+	background-color: red;
+	color: blue;
+}
+

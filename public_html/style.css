@@ -8,6 +8,33 @@ body{
     margin-left:480px;
 
 }
+
+.login{
+	border:3px solid blue;
+	font-weight: bold;
+	color:#003366;
+	width:50px;
+	background-color: #00997a;
+	border-radius: 5px;
+	text-align: center;
+	padding:4px;
+	position: absolute;
+	right: 80px;
+
+}
+
+.signup{
+	border:3px solid blue;
+	font-weight: bold;
+	color:#003366;
+	width:50px;
+	background-color: #00997a;
+	border-radius: 5px;
+	text-align: center;
+	padding:4px;
+	float: right;
+	 
+}
 nav{
 	margin-left: 70px;
 	position: absolute;
